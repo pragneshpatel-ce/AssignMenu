@@ -1,0 +1,171 @@
+﻿@using MenuLogic.Entity;
+@model List<Custom>
+@{
+	ViewBag.Title = "Setting";
+	List<tbemHead> agnt = new List<tbemHead>();
+	if (ViewBag.agent != null)
+	{
+		agnt = (List<tbemHead>)ViewBag.agent;
+	}
+}
+<div>
+	<div id="overlay">
+		<div style="margin-top: 20%;margin-left: 50%;">
+			<img src="~/Images/301.gif" height="80" width="80" />
+		</div>
+	</div>
+	<br />
+
+
+	@helper BuildMenu(List<Custom> data, int? parentId)
+{
+
+
+	var items = data.Where(d => d.ParentId == parentId).ToList();
+	if (items.Count() > 0)
+	{
+		foreach (var item in items)
+		{
+
+			<li data-jstree='{ "opened" : true, "icon" : "fa fa-user icon-state-info" }'>
+				@if (item.IsActive == true)
+				{
+					<a href="#" data-id="@item.MenuId" id="@item.MenuId" class="jstree-clicked">
+						@item.MenuName
+						@Html.HiddenFor(c => c[item.Index].IsActive, new { @Value = item.IsActive })
+						@Html.HiddenFor(c => c[item.Index].MapId, new { @Value = item.MapId })
+						@Html.HiddenFor(c => c[item.Index].ParentId, new { @Value = item.ParentId })
+						@Html.HiddenFor(c => c[item.Index].UserId, new { @Value = item.UserId })
+						@Html.HiddenFor(c => c[item.Index].MenuId, new { @Value = item.MenuId })
+					</a>
+				}
+				else
+				{
+					<a href="#" data-id="@item.MenuId" id="@item.MenuId">
+						@item.MenuName
+						@Html.HiddenFor(c => c[item.Index].IsActive, new { @Value = item.IsActive })
+						@Html.HiddenFor(c => c[item.Index].MapId, new { @Value = item.MapId })
+						@Html.HiddenFor(c => c[item.Index].ParentId, new { @Value = item.ParentId })
+						@Html.HiddenFor(c => c[item.Index].UserId, new { @Value = item.UserId })
+						@Html.HiddenFor(c => c[item.Index].MenuId, new { @Value = item.MenuId })
+					</a>
+				}
+				<ul>@BuildMenu(data, item.MenuId)</ul>
+			</li>
+		}
+	}
+}
+
+
+	@using (Html.BeginForm("Setting", "AssignMenu", FormMethod.Post, new { @role = "form" }))
+	{
+		<div class="col-md-10">
+			<div id="tree_1" class="tree-demo">
+				<ul>
+					@foreach (var idata in Model.Where(c => c.ParentId == 0).ToList())
+					{
+						<li data-jstree='{ "opened" : true, "icon" : "fa fa-user icon-state-success" }'>
+
+							@if (idata.IsActive == true)
+							{
+								<a data-id="@idata.MenuId" id="@idata.MenuId" class="jstree-clicked">
+									@idata.MenuName
+									@Html.HiddenFor(c => c[idata.Index].IsActive, new { @Value = idata.IsActive })
+									@Html.HiddenFor(c => c[idata.Index].MapId, new { @Value = idata.MapId })
+									@Html.HiddenFor(c => c[idata.Index].ParentId, new { @Value = idata.ParentId })
+									@Html.HiddenFor(c => c[idata.Index].MenuId, new { @Value = idata.MenuId })
+									@Html.HiddenFor(c => c[idata.Index].UserId, new { @Value = idata.UserId })
+								</a>
+							}
+							else
+							{
+								<a data-id="@idata.MenuId" id="@idata.MenuId">
+									@idata.MenuName
+									@Html.HiddenFor(c => c[idata.Index].IsActive, new { @Value = idata.IsActive })
+									@Html.HiddenFor(c => c[idata.Index].MapId, new { @Value = idata.MapId })
+									@Html.HiddenFor(c => c[idata.Index].ParentId, new { @Value = idata.ParentId })
+									@Html.HiddenFor(c => c[idata.Index].MenuId, new { @Value = idata.MenuId })
+									@Html.HiddenFor(c => c[idata.Index].UserId, new { @Value = idata.UserId })
+								</a>
+							}
+							<ul>@BuildMenu(Model, idata.MenuId)</ul>
+						</li>
+					}
+				</ul>
+			</div>
+		</div>
+
+		<button type="button" class="savebtn">Save</button>
+	}
+</div>
+
+<style>
+	#overlay {
+		position: fixed;
+		z-index: 99999;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		background: rgba(255,255,255,0.5);
+		transition: 1s 0.4s;
+	}
+</style>
+<link href="~/Scripts/jstree/dist/themes/default/style.min.css" rel="stylesheet" />
+@section scripts{
+	<script src="~/Scripts/jstree/dist/jstree.min.js"></script>
+	<script src="~/Scripts/jstree/ui-tree.js"></script>
+	<script>
+		jQuery(document).ready(function () {
+			$("#overlay").show();
+			UITree.init();
+			$("#overlay").hide();
+		});
+
+		var cnt = 0;
+		var wordlist = "";
+
+		$(document).on("click", '.savebtn', function (e) {
+			$("#overlay").show();
+			$(".savebtn").hide();
+
+			//$('a').each(function () {
+			//	if ($(this).hasClass("jstree-clicked")) {
+			//		wordlist.push($(this).attr("data-id"));
+			//	}
+			//});
+			var $form = $(this).closest('form');
+			cnt++;
+			var data = $form.serializeArray();
+			data.push({ name: 'wordlist', value: wordlist });
+			$.post($form.attr('action'), data, function (d) {
+				if (d[0] == "Success") {
+					alert(d[1]);
+					location.reload();
+				}
+				else {
+					alert(d[1]);
+					cnt = 0;
+					$("#overlay").hide();
+					$(".savebtn").show();
+				}
+			});
+		})
+
+		// handle link clicks in tree nodes(support target="_blank" as well)
+		$('#tree_1').on('select_node.jstree', function (e, data) {
+			debugger;
+			var link;
+			var i = 0;
+
+			for (i; i < data.selected.length; i++) {
+				link = $('#' + data.selected[i]).find('a');
+				if (i == 0)
+					wordlist = link[0].id;
+				else
+					wordlist += "," + link[0].id;
+
+			}
+		});
+	</script>
+}

@@ -1,0 +1,372 @@
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll.config
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.pdb
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Antlr3.Runtime.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Infrastructure.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Ninject.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Optimization.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\WebGrease.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.pdb
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Ninject.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.xml
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\de\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\es\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\fr\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\it\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ja\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ko\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\ru\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.csprojResolveAssemblyReference.cache
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.dll
+G:\Development\AllDemo\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.pdb
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll.config
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.pdb
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Antlr3.Runtime.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Infrastructure.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Ninject.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.Formatting.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.WebHost.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Optimization.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebGrease.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.pdb
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Ninject.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.Formatting.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.WebHost.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.xml
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\de\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\es\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\fr\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\it\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ja\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ko\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ru\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\System.Spatial.resources.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.csprojResolveAssemblyReference.cache
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.dll
+F:\Jenish\Backup\Projects\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.pdb
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll.config
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.pdb
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Antlr3.Runtime.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Infrastructure.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Ninject.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.Formatting.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.WebHost.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Optimization.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebGrease.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.pdb
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Ninject.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.Formatting.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.WebHost.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\de\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\es\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\fr\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\it\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ja\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ko\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\ru\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\System.Spatial.resources.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.csprojResolveAssemblyReference.cache
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.pdb
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll.config
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\AssignTreeMenu.pdb
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Antlr3.Runtime.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Infrastructure.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Ninject.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Optimization.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\WebGrease.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\MenuLogic.pdb
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\EntityFramework.SqlServer.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Ninject.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Newtonsoft.Json.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Net.Http.WebRequest.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Helpers.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Mvc.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Razor.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Deployment.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.WebPages.Razor.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.Data.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\WebMatrix.WebData.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.AspNet.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.Core.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OAuth.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Web.Http.OData.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.Edm.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\Microsoft.Data.OData.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\System.Spatial.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\de\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\es\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\fr\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\it\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ja\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ko\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ru\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\de\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\es\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\fr\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\it\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ja\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ko\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\ru\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\zh-Hans\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\bin\zh-Hant\System.Spatial.resources.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.csprojResolveAssemblyReference.cache
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\AssignTreeMenu\obj\Debug\AssignTreeMenu.pdb

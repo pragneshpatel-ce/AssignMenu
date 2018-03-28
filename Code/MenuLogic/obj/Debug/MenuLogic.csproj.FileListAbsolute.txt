@@ -1,0 +1,28 @@
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.dll.config
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.dll
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.pdb
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.dll
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.SqlServer.dll
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.xml
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.SqlServer.xml
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\obj\Debug\MenuLogic.csprojResolveAssemblyReference.cache
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\obj\Debug\MenuLogic.dll
+G:\Development\AllDemo\AssignTreeMenu\MenuLogic\obj\Debug\MenuLogic.pdb
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.dll.config
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.pdb
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.SqlServer.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.SqlServer.xml
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\obj\Debug\MenuLogic.dll
+F:\TechnoSky Infotech\Projects\Maninder Sir\AssignTreeMenu\AssignTreeMenu\MenuLogic\obj\Debug\MenuLogic.pdb
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.dll.config
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\bin\Debug\MenuLogic.pdb
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.SqlServer.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\bin\Debug\EntityFramework.SqlServer.xml
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\obj\Debug\MenuLogic.dll
+G:\Development\AllDemo\AssignTree\AssignTreeMenu\MenuLogic\obj\Debug\MenuLogic.pdb

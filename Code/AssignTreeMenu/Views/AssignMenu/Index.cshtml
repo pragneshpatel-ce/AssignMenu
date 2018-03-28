@@ -1,0 +1,37 @@
+﻿@model List<MenuLogic.Entity.USRProfile>
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<table>
+	<thead>
+		<tr>
+			<th>
+				UserName
+			</th>
+			<th>
+				Description
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			var _Index = Model.IndexOf(item);
+			<tr>
+				<td>
+					@item.usrnam
+				</td>
+				<td>
+					@item.usrdesc
+				</td>
+				<td>
+					<a href="/AssignMenu/Setting?uid=@item.usrid">Setting</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
